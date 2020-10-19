@@ -9,4 +9,9 @@ In Real time examples are like Amazon, they have been using a recommendation eng
 
 Although machine learning (ML) is commonly used in building recommendation systems, it doesn’t mean it’s the only solution. There are many ways to build a recommendation system? simpler approaches, for example, we may have very few data, or we may want to build a minimal solution fast etc.
 
+Assume that, for simpler video recommendation,In such that case, based on videos a user has watched, we can simply suggest same authors videos or same publications videos.
+* popularity based
+* classification based
+* collaborative filtering
+
 ![](Recommendation-image.jpg)
