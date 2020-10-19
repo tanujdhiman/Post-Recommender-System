@@ -6,6 +6,7 @@ They are simple algorithms which aim to provide the most relevant and accurate i
 In Real time examples are like Amazon, they have been using a recommendation engine for suggesting the goods or products that customers might also like.
 
 ![](Recommendation-image.jpg)
+
 **More about Recommendation System Here :- https://en.wikipedia.org/wiki/Recommender_system**
 ## How to Design Recommendation System ??
 
