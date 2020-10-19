@@ -1,4 +1,4 @@
 # Post-Recommender-System
-This repository contains the Recommendation System which Recommend post to User based on which type of Post User is interested.
+A recommendation system is an extensive class of web applications that involves predicting the user responses to the options.
 
 ![](Recommendation-image.jpg)
