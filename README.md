@@ -16,3 +16,8 @@ Assume that, for simpler video recommendation,In such that case, based on videos
 * popularity based
 * classification based
 * collaborative filtering
+
+### Popularity based:
+
+Easiest way to build a recommendation system is popularity based, simply over all the products that are popular, So how to identify popular products, which could be identified by which are all the products that are bought most,
+Example, In shopping store we can suggest popular dresses by purchase count.
