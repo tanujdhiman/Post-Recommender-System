@@ -30,3 +30,8 @@ When new users come, our classifier will give a binary value of that product lik
 ![](classification-based.png)
 
 In above example using user features like Age, gender and product features like cost, quality and product history, based on this input our classifier will give a binary value user may like or not , based on that boolean we could recommend product to a customer.
+
+### Collaborative filtering:
+
+**Collaborative Filtering** models which are based on assumption that people like things similar to other things they like, and things that are liked by other people with similar taste.
+Collaborative Filtering models are two types : 
