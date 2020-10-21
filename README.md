@@ -35,3 +35,6 @@ In above example using user features like Age, gender and product features like 
 
 **Collaborative Filtering** models which are based on assumption that people like things similar to other things they like, and things that are liked by other people with similar taste.
 Collaborative Filtering models are two types : 
+
+1. Nearest neighbor
+2. Matrix factorization
