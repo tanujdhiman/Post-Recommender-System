@@ -27,3 +27,5 @@ Example, In shopping store we can suggest popular dresses by purchase count.
 Second way to build a recommendation system is classification model , In that use feature of both users as well as products in order to predict whether this product liked or not by the user.
 When new users come, our classifier will give a binary value of that product liked by this user or not, In such a way that we can recommend a product to the user .
 
+![](classification-based.png)
+
