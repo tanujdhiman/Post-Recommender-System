@@ -50,3 +50,6 @@ It can be looked at two ways,
 Find the users who have similar taste of products as the current user , similarity is based on purchasing behavior of the user, so based on the neighbor purchasing behavior we can recommend items to the current user.
 
 #### Item-based collaborative filtering :
+
+Recommend Items that are similar to the item user bought,similarity is based on co-occurrences of purchases
+Item A and B were purchased by both users X and Y then both are similar.
