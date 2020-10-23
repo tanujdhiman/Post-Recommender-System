@@ -42,3 +42,6 @@ Collaborative Filtering models are two types :
 #### Nearest neighbor collaborative filtering:
 
 In these type of recommendation systems are recommending based on nearest neighbors, nearest neighbor approach used to find out either similar users or similar products.
+It can be looked at two ways,
+1. User based filtering
+2. Item based filtering
