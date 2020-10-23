@@ -55,3 +55,5 @@ Find the users who have similar taste of products as the current user , similari
 
 Recommend Items that are similar to the item user bought,similarity is based on co-occurrences of purchases
 Item A and B were purchased by both users X and Y then both are similar.
+
+### Matrix factorization:
