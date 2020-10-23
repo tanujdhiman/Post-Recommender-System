@@ -60,3 +60,5 @@ Item A and B were purchased by both users X and Y then both are similar.
 
 It is basically model based collaborative filtering and matrix factorization is the important technique in recommendation system.
 When a user gives feed back to a certain movie they saw (say they can rate from one to five), this collection of feedback can be represented in a form of a matrix. Where each row represents each users, while each column represents different movies. Obviously the matrix will be sparse since not everyone is going to watch every movies, (we all have different taste when it comes to movies).
+
+![](matrix.jpeg)
