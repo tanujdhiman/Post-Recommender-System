@@ -46,6 +46,8 @@ It can be looked at two ways,
 1. User based filtering
 2. Item based filtering
 
+![](filtering-image.jpeg)
+
 #### User-based collaborative filtering:
 Find the users who have similar taste of products as the current user , similarity is based on purchasing behavior of the user, so based on the neighbor purchasing behavior we can recommend items to the current user.
 
