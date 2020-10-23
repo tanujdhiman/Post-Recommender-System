@@ -38,3 +38,6 @@ Collaborative Filtering models are two types :
 
 1. Nearest neighbor
 2. Matrix factorization
+
+#### Nearest neighbor collaborative filtering:
+
