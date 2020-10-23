@@ -48,3 +48,5 @@ It can be looked at two ways,
 
 #### User-based collaborative filtering:
 Find the users who have similar taste of products as the current user , similarity is based on purchasing behavior of the user, so based on the neighbor purchasing behavior we can recommend items to the current user.
+
+#### Item-based collaborative filtering :
