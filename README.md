@@ -57,3 +57,5 @@ Recommend Items that are similar to the item user bought,similarity is based on 
 Item A and B were purchased by both users X and Y then both are similar.
 
 ### Matrix factorization:
+
+It is basically model based collaborative filtering and matrix factorization is the important technique in recommendation system.
