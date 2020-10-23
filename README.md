@@ -45,3 +45,6 @@ In these type of recommendation systems are recommending based on nearest neighb
 It can be looked at two ways,
 1. User based filtering
 2. Item based filtering
+
+#### User-based collaborative filtering:
+Find the users who have similar taste of products as the current user , similarity is based on purchasing behavior of the user, so based on the neighbor purchasing behavior we can recommend items to the current user.
